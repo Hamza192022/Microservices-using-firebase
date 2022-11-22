@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fast-gateway": "^3.4.2",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
